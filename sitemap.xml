@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/entrepreneurship/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/startup/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/the-beauty-of-going-all-in/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/essays/driven-by-obsession/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/essays/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/philosophy/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
